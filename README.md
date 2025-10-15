@@ -38,7 +38,6 @@ u→ ufat
 
 ## 📦 Instalación
 
-bash
 # Clona el repositorio
 git clone https://github.com/beneisrael/Encriptadorfinal.git
 
