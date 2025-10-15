@@ -47,7 +47,7 @@ inputText.addEventListener('input', () => {
 // === FUNCIONES DE ENCRIPTAR Y DESENCRIPTAR ===
 function encriptar() {
   const texto = inputText.value;
-  if (/[^a-z\s]/.test(texto)) {
+  if (/[^a-zñ\s]/.test(texto)) {
     statusMessage.textContent = 'Ups 😅 solo letras minúsculas y sin caracteres especiales';
     detenerEfectoEscritura();
     return;
@@ -80,7 +80,7 @@ function encriptar() {
 
 function desencriptar() {
   const textoEncriptado = inputText.value;
-  if (/[^a-z\s]/.test(textoEncriptado)) {
+  if (/[^a-zñ\s]/.test(textoEncriptado)) {
     statusMessage.textContent = 'Ups 😅 solo letras minúsculas y sin caracteres especiales';
     detenerEfectoEscritura();
     return;
