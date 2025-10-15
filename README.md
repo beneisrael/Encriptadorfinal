@@ -53,11 +53,11 @@ git clone https://github.com/beneisrael/Encriptadorfinal.git
 
 🌟 Características Técnicas
 
-· ✅ Validación de caracteres (a-z, ñ, espacios)
-· ✅ Efecto de escritura en tiempo real
-· ✅ Estados dinámicos en botones
-· ✅ Diseño responsive
-· ✅ Compatible con GitHub Pages
+✅ Validación de caracteres (a-z, ñ, espacios)
+✅ Efecto de escritura en tiempo real
+✅ Estados dinámicos en botones
+✅ Diseño responsive
+✅ Compatible con GitHub Pages
 
 👨‍💻 Autor
 
